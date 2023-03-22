@@ -1,0 +1,111 @@
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Anton', sans-serif;
+	color: black;
+	font-size: 16px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-size: 50px;
+	margin-bottom: 58px;
+}
+
+h3 {
+	font-size: 25px;
+	margin-bottom: 28px;
+}
+
+a {
+	text-decoration: none;
+}
+
+section {
+	padding-top: 113px	
+}
+
+p {
+	margin: 0;
+}
+
+ul, li {
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+.container {
+	width: 1170px;
+	margin: 0 auto; 
+}
+
+.header1 {
+	background-color: #FBF6ED;
+	padding-top: 113px;
+	padding-bottom: 100px;
+}
+
+.group {
+	width: 1170px;
+	height: 698px;
+	border: 1px solid darkolivegreen;
+}
+
+.group h2 {
+	font-size: 50px;
+	margin-bottom: 38.82px;
+}
+
+.games {
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid lightgreen;
+}
+
+.rectangle { width: 370px; height: 583px; padding: 45px; }
+
+.gamescataloglogo {
+	margin-right: 285px;
+	margin-top: 31.56px;
+}
+
+.eldenringcatalogfoto {
+	margin-right: 285px;
+	margin-top: 48.14px;
+}
+
+.catalogtext {
+	width: 274px;
+	height: 92.91px;
+	margin-bottom: 67.52px;
+	margin-right: 48px;
+}
+
+.catalogtext h3 {
+	font-family: 'Anton';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 25px;
+	line-height: 38px;
+	color: #000000;
+	margin-bottom: 0;
+}
+
+.catalogtext p {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 138.4%;
+	color: #000000;
+}
